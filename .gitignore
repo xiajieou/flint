@@ -1,0 +1,14 @@
+# Working docs (spec, decisions, notes): never committed
+planning/
+
+# Build output
+build/
+cmake-build-*/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# OS
+.DS_Store
